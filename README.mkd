@@ -1,0 +1,73 @@
+# Newsletter X
+
+  > Intégré le isoD  
+  > **[Preview en ligne]()**  
+
+## Tests
+
+### Navigateurs 
+
+#### Conforme
+
+- IE 6
+- IE 7
+- IE 8
+- Firefox 3.6 PC
+- Firefox 4 Mac
+- Safari 5 Mac
+- Chrome PC
+- Chrome Mac
+
+### Clients mail & webmails
+
+- [Test du template](http://xxx.litmus.com/x)
+
+#### Conforme
+
+- AOL Web
+- Gmail
+- Hotmail
+- MobileMe
+- Yahoo Mail Classique
+- Yahoo Mail Beta
+- Apple Mail 3
+- Apple Mail 4
+- Lotus Notes 8
+- Outlook 2000
+- Outlook 2003
+- Outlook 2007
+- Outlook 2010
+- iPhone
+- iPad
+
+#### Non conforme
+
+- Lotus Notes 7 : décalages dans le header. Comme nous sommes en contexte B2C, ce client mail représentera moins de 1% des utilisateurs
+- Symbian S60 (polices ne correspondent pas à la charte)
+- Windows Phone 6.5 (polices ne correspondent pas à la charte)
+
+### Différences avec la créa
+
+-  
+
+## Fichiers
+
+Dossier : /www/mailings/x
+
+* index.html : source
+* images/
+* README.mkd
+
+## Poids
+
+Environ 100 ko
+
+## Crédits
+
+* Créa : 
+* Intégration HTML : 
+
+## Autres
+
+### Dimensions des images
+
